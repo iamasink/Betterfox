@@ -1,4 +1,4 @@
-rem @echo off
+@echo off
 
 rem --- Firefox ---
 set "FF_PROFILE=%APPDATA%\Mozilla\Firefox\Profiles\2kdzx0vu.default-release-1755453145240"
